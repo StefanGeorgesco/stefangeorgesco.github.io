@@ -1,0 +1,22 @@
+[
+    {
+        "nom": "DUPONT",
+        "prénom": "Jean",
+        "âge": 45
+    },
+    {
+        "nom": "DURAND",
+        "prénom": "Pierre",
+        "âge": 60
+    },
+    {
+        "nom": "MARTIN",
+        "prénom": "Eric",
+        "âge": 32
+    },
+    {
+        "nom": "JACQUES",
+        "prénom": "Frère",
+        "âge": 190
+    }
+]

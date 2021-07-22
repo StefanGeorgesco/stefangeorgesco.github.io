@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    color: violet;
+}
+
+p {
+    color: teal;
+}
+
+table {
+    border-collapse: collapse;
+    color: blue;
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 0.3em 1em;
+    text-align: left;
+}
+
+tr:first-child {
+    background-color:yellow;
+}
+
+tr:nth-child(even) {
+    background-color:rgb(213, 231, 241);
+}
